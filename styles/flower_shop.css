@@ -230,7 +230,54 @@
     padding-right: 240px;
 }
 
+/*reviews style*/
 
+.reviews{
+    margin-top: 150px;
+}
+
+.reviews-container{
+    display: flex;
+    gap: 50px;
+    padding: 50px;
+justify-content: center;}
+
+.single-review{
+    padding: 50px;
+    width: 413px;
+    height: 314px;
+    border-radius: 12px;
+background: #FFF;
+box-shadow: 0px 20px 80px 10px rgba(60, 60, 60, 0.10);
+
+}
+
+
+
+.description-reviews{
+
+    color: #696969;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+
+.title-review{
+text-align: center;
+    color: #181414;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: 130%;
+letter-spacing: 0.8px;
+}
+h2{
+color: #E55473;
+    font-size: 22px;
+font-style: normal;
+font-weight: 700;
+}
 /*latest deals styles*/
 
 .latest-deals-section {
