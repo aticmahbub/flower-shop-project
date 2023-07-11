@@ -127,16 +127,17 @@ background: rgba(71, 125, 17, 0.15);
 
 /*services styles*/
 .section-services {
-    padding: 128px;
+    padding: 128px 240px ;
 }
 
 
 .services-container {
+
     display: flex;
-    gap: 320px;
+    gap: 100px;
 
 
-
+    padding: 100px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
 }
@@ -144,7 +145,7 @@ background: rgba(71, 125, 17, 0.15);
 .services-name {
 
     text-align: center;
-    padding: 50px;
+   
 }
 
 .services-title {
