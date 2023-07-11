@@ -1,0 +1,44 @@
+/*banner styles*/
+
+.banner {
+    display: flex;
+    background-color: #E554731A;
+    justify-content: space-between;
+ 
+    padding: 30px 30px 0px 150px;
+       align-items: center;
+}
+
+.banner-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 32px;
+    margin-bottom: 0px;
+}
+
+.primary-btn {
+    border: 0;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    gap: 10px;
+    margin-top: 52px;
+}
+
+.banner-pic{
+    width: 635px;
+height: 800px;
+margin-top: 40px;
+}
