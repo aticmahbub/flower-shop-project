@@ -237,9 +237,9 @@
     
     background-image: url("Rectangle\ 9.png");
     background-repeat: no-repeat;
-    margin: 128px 240px;
-    padding-top: ;
-
+    margin-left: 240px;
+    margin-top: 128px;
+margin-left: 240px;
 }
 
 .latest-deals{
@@ -247,7 +247,6 @@ text-align: center;
     height: 449px;
     width: 1440px;
     padding-top: 122px;
-padding-bottom: 121px;    
 }
 
 .title-latest-deals{
@@ -268,4 +267,48 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px;
+}
+
+
+/*footer styles*/
+.container-footer{
+    background-color: #111010;
+    padding-top: 128px;
+    padding-bottom: 128px;
+    padding-left: 648px;
+    padding-right: 648px;
+}
+
+.title-footer{
+    text-align: center;
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-bottom: 0;
+}
+
+.description-footer{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+margin-top: 24px;
+margin-bottom: 0;
+line-height: 30px;
+}
+
+.copyright-footer{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 32px;
 }
